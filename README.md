@@ -34,11 +34,11 @@
 
 1- Cloner le dépot :
 
-    git clone https://github.com/votre-username/health-calculator-service.git
+    git clone https://github.com/yannick-kenang-supdevinci/Markdown.git
 
-    cd health-calculator-service
+    cd Markdown
 
-    2- Installez les dépendances :
+2- Installez les dépendances :
 
     make init
 
